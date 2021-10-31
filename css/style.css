@@ -1,0 +1,53 @@
+.hidden {
+  display: none;
+}
+#login-form{
+  width: 100%;
+  text-align: center;
+}
+#todo-form  {
+  text-align: center;
+  font-size: 2rem;
+}
+#todo-list  {
+  text-align: center;
+  font-size: 2rem;
+}
+#button{
+  font-size: 2rem;
+}
+#source {
+  right: 5rem;
+  font-size: 1rem;
+  position: fixed ;
+  top: 90%;
+  text-align:end;
+  
+}
+
+#userLogin{
+  font-size: 5rem;
+  width: 100%;
+  text-align: center;
+  
+}
+#clock{
+  text-align: center;
+  font-size: 4rem;
+}
+#weather{
+  text-align: center;
+}
+body {
+  max-width: 100%; 
+  max-height: auto;
+  background-size: cover;
+  object-fit: cover;
+
+}
+
+* {
+  color: aliceblue;
+  margin: 0;
+}
+
